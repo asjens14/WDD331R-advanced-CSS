@@ -15,12 +15,10 @@ p {
 a {
   text-decoration: none;
   font-weight: bold;
-  background-color: #112C36;
   color: #72B0C0;
 }
 
 a:hover {
-  background-color: #72B0C0;
   color: #112C36;
 }
 
